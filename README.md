@@ -11,5 +11,5 @@ Este projeto implementa um analisador preditivo para análise sintática de cade
 • Estrutura do Projeto:
 
  1. TabelaDeAnalise.py: Contém a classe TabelaDeAnalise, responsável pelo carregamento e processamento da tabela de análise a partir de um arquivo CSV.
- 2. AnalisadorPreditivo.py.py: Contém a classe AnalisadorPreditivo, que utiliza a tabela de análise para realizar a análise preditiva de cadeias de entrada.
+ 2. AnalisadorPreditivo.py: Contém a classe AnalisadorPreditivo, que utiliza a tabela de análise para realizar a análise preditiva de cadeias de entrada.
  3. Main.py: Script principal para executar o analisador preditivo, configurando a tabela de análise e a cadeia de entrada para análise.
