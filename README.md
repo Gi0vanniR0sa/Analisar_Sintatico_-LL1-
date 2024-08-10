@@ -1,4 +1,5 @@
-Analisador Preditivo para Análise Sintática
+• Analisador Preditivo para Análise Sintática: 
+
 Este projeto implementa um analisador preditivo para análise sintática de cadeias de entrada com base em uma tabela de análise preditiva. O analisador utiliza a técnica de análise preditiva para verificar se uma cadeia de entrada é aceita por uma gramática livre de contexto definida por uma tabela de análise.
 
 • Funcionalidades:
